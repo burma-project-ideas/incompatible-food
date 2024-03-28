@@ -24,5 +24,8 @@ Data များကို [Incompatible.json](https://github.com/sannlynnhtun-c
     </tbody>
 </table>
 
+### Participants
+1. [Aung Yarzar Hein (Kotlin)](https://github.com/AungYarzarHein/Burmese-Recipes-and-Incompatible-Food)
+
 ![Alt text](https://github.com/sannlynnhtun-coding/IncompatibleFood/blob/main/IncompatibleFoodFlow1.jpg)
 ![Alt text](https://github.com/sannlynnhtun-coding/IncompatibleFood/blob/main/IncompatibleFoodMindMap.jpg)
